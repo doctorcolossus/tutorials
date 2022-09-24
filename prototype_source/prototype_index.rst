@@ -141,6 +141,13 @@ Prototype features are not available as part of binary distributions like PyPI o
    :link: ../prototype/nestedtensor.html
    :tags: NestedTensor
 
+.. customcarditem::
+   :header: Masked Tensor Sparsity
+   :card_description: Learn about how to leverage sparse layouts (e.g. COO and CSR) in MaskedTensor
+   :image: ../_static/img/thumbnails/cropped/generic-pytorch-logo.png
+   :link: ../prototype/maskedtensor_sparsity.html
+   :tags: MaskedTensor
+
 .. End of tutorial card section
 
 .. raw:: html
@@ -172,3 +179,4 @@ Prototype features are not available as part of binary distributions like PyPI o
    prototype/vmap_recipe.html
    prototype/vulkan_workflow.html
    prototype/nestedtensor.html
+   prototype/maskedtensor_sparsity.html
