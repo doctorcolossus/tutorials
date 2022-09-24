@@ -141,6 +141,15 @@ Prototype features are not available as part of binary distributions like PyPI o
    :link: ../prototype/nestedtensor.html
    :tags: NestedTensor
 
+.. MaskedTensor
+
+.. customcarditem::
+   :header: Masked Tensor Advanced Semantics
+   :card_description: Learn more about Masked Tensor's advanced semantics (reductions and comparing vs. NumPy's MaskedArray)
+   :image: ../_static/img/thumbnails/cropped/generic-pytorch-logo.png
+   :link: ../prototype/maskedtensor_advanced_semantics.html
+   :tags: NestedTensor
+
 .. End of tutorial card section
 
 .. raw:: html
@@ -172,3 +181,4 @@ Prototype features are not available as part of binary distributions like PyPI o
    prototype/vmap_recipe.html
    prototype/vulkan_workflow.html
    prototype/nestedtensor.html
+   prototype/maskedtensor_advanced_semantics.html
